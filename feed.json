@@ -1,6 +1,6 @@
 {
-  "version": "0.4.1",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.1/BET-Suite-0.4.1.exe",
-  "notes": "Test du mecanisme de mise a jour automatique : bascule clair/sombre deplace a cote des notifications.",
-  "sha256": "90dbeb87d8d2a52485a4f6d642c80c8341a8e29d7bf7460810a9aa976dad7262"
+  "version": "0.4.2",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.2/BET-Suite-0.4.2.exe",
+  "notes": "Installation par utilisateur (mise a jour sans admin) + correctif relance auto.",
+  "sha256": "bd0773fc63d282e1de85a7b7b4463135b7cb78001c2e707d39f8a300cb617498"
 }
