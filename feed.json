@@ -1,6 +1,6 @@
 {
-  "version": "0.4.3",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.3/BET-Suite-0.4.3.exe",
+  "version": "0.4.4",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.4/BET-Suite-0.4.4.exe",
   "notes": "Correctif relance auto du controleur de MAJ + installation par utilisateur.",
-  "sha256": "0ba8f68417f44d02f89608fcee0f221fd54b9125baedc79aa1d64cb3a24d02a4"
+  "sha256": "255ca37269f0b5ae7797513776eae35b51a70a22409b5a5a6af947832b9613b7"
 }
