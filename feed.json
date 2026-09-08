@@ -1,6 +1,6 @@
 {
-  "version": "0.4.11",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.11/BET-Suite-0.4.11.exe",
-  "notes": "Version de test : validation reelle du circuit complet (mise a jour auto sans erreur VBS, relance wscript corrigee)",
-  "sha256": "69b3ccdda0b6eda83b2625f36e8a16d4e77c348cd3821a4d6a3b44a9b170d83f"
+  "version": "0.4.12",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.12/BET-Suite-0.4.12.exe",
+  "notes": "Login : video metallique animee en fond (repli statique). Fenetre reduite : champs des formules et graphiques ne se font plus rogner (defilement interne + planchers de canvas).",
+  "sha256": "4dc4947e1409c67208c1c797e83c2b4af6ba151d48a1cadde4f4a090c46fb561"
 }
