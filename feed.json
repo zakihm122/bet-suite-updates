@@ -1,6 +1,6 @@
 {
-  "version": "0.4.8",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.8/BET-Suite-0.4.8.exe",
-  "notes": "Correctif relance: le .bat de remplacement tourne via un shim wscript (le cmd /c direct etait tue dans un exe windowed) - l'app se rouvre correctement apres la MAJ",
-  "sha256": "e90563b2161c44e5b48a8d4b82d1f2236ec5cc67fec59e603881885aff81b829"
+  "version": "0.4.9",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.9/BET-Suite-0.4.9.exe",
+  "notes": "Version de test : valide le parcours complet de mise a jour (relance via shim wscript)",
+  "sha256": "dbcf8a871d0eabbbb23fa4607d727aa638c3a8f0da8207fa50b82d33e4330aaf"
 }
