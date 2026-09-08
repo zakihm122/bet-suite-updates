@@ -1,6 +1,6 @@
 {
-  "version": "0.4.6",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.6/BET-Suite-0.4.6.exe",
-  "notes": "Correctif mise a jour: renommage+copy (copy simple echouait sur fichier verrouille), licence UA navigateur.",
-  "sha256": "f7dda40aa1ca206456cfd39893393ecaeea221d88509ec751a2d51e990361053"
+  "version": "0.4.7",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.7/BET-Suite-0.4.7.exe",
+  "notes": "Popup de mise a jour au demarrage: on confirme avant de remplacer l'exe (donnees conservees)",
+  "sha256": "e95558b52e1cd9df6b8d01cf3812b6bd0e78967a93d73eb9660a17a12cb50a95"
 }
