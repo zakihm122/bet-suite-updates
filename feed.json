@@ -1,6 +1,6 @@
 {
-  "version": "0.4.9",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.9/BET-Suite-0.4.9.exe",
-  "notes": "Version de test : valide le parcours complet de mise a jour (relance via shim wscript)",
-  "sha256": "dbcf8a871d0eabbbb23fa4607d727aa638c3a8f0da8207fa50b82d33e4330aaf"
+  "version": "0.4.10",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.10/BET-Suite-0.4.10.exe",
+  "notes": "Correction du lanceur de mise a jour (guillemets VBS : l'erreur « Unterminated string constant » ne doit plus apparaître, la relance automatique fonctionne)",
+  "sha256": "31a533256a775da61edd397c9ad0031fe75040f2738c2a3270b080d8eebc1e23"
 }
