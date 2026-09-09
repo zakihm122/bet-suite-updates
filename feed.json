@@ -1,6 +1,6 @@
 {
-  "version": "0.4.14",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.14/BET-Suite-0.4.14.exe",
-  "notes": "Correctif urgent : icones rendues en fragments sur ecrans scales (125 % / 150 %). Rendu a la densite reelle de l'ecran, net et complet.",
-  "sha256": "edc4c6572759ca2b5a92e37426da762c79cdb52fb1927f17a721de3357a5da61"
+  "version": "0.4.15",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.15/BET-Suite-0.4.15.exe",
+  "notes": "Suivi Affaires : formulaire General en deux cartes equilibrees, bouton « Valider l'onglet » sur la rangee d'onglets (bande pleine largeur supprimee), plus de barre horizontale en fenetre reduite.",
+  "sha256": "db17730cd92d05206670ab75b30f7685b45404e803cce270e678ff2ff27a9819"
 }
