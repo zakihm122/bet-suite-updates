@@ -1,6 +1,6 @@
 {
-  "version": "0.4.16",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.16/BET-Suite-0.4.16.exe",
-  "notes": "Documents : logo du bureau sur tous les documents, QR code sur contrat/rapport/factures/bon, place de signature client sur le rapport. Suivi Affaires : compteurs sur la ligne du titre, plus de place pour le contenu.",
-  "sha256": "3bd2a9608b058b09415b4c2f6d03c0c845a59dc2544088fd7a0edfab1956222f"
+  "version": "0.4.17",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.17/BET-Suite-0.4.17.exe",
+  "notes": "Barre de titre : boutons reduire/agrandir/fermer et avatar rendus a la densite reelle de l'ecran, plus de flou sur ecrans scales.",
+  "sha256": "22291c5600dd3fad30118770f15a00fa34841f0fd49f631b86360d311141a5c8"
 }
