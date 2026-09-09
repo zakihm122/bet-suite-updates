@@ -1,6 +1,6 @@
 {
-  "version": "0.4.21",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.21/BET-Suite-0.4.21.exe",
-  "notes": "Synchronisation Financier : carte « Facturé » corrigée (elle montrait l'encaisse au lieu du facturable), parts du bureau bien ponderees sur la tresorerie et les previsions pour les affaires partagees, formule de tresorerie expliquee sous les cartes ; repartition : plus de champ % (ni fleches) en affaire menée seule, fleches supprimees sur les montants.",
-  "sha256": "295efdbf145b25005ae710061bdda4f6efeaf137035804aeaad830d4d950146e"
+  "version": "0.4.22",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.22/BET-Suite-0.4.22.exe",
+  "notes": "Mise a jour automatique durcie : le script attend la sortie de TOUTES les instances de l'app, et force la fermeture de tout processus encore ouvert pendant l'installation — plus jamais de demande d'arreter les applications ni de fichier verrouille.",
+  "sha256": "f5fb023704f73d9f2e5699349888698f27d124b35e382abb30e11a49df5c995f"
 }
