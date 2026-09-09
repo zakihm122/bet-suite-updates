@@ -1,6 +1,6 @@
 {
-  "version": "0.4.15",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.15/BET-Suite-0.4.15.exe",
-  "notes": "Suivi Affaires : formulaire General en deux cartes equilibrees, bouton « Valider l'onglet » sur la rangee d'onglets (bande pleine largeur supprimee), plus de barre horizontale en fenetre reduite.",
-  "sha256": "db17730cd92d05206670ab75b30f7685b45404e803cce270e678ff2ff27a9819"
+  "version": "0.4.16",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.16/BET-Suite-0.4.16.exe",
+  "notes": "Documents : logo du bureau sur tous les documents, QR code sur contrat/rapport/factures/bon, place de signature client sur le rapport. Suivi Affaires : compteurs sur la ligne du titre, plus de place pour le contenu.",
+  "sha256": "3bd2a9608b058b09415b4c2f6d03c0c845a59dc2544088fd7a0edfab1956222f"
 }
