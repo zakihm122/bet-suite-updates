@@ -1,6 +1,6 @@
 {
-  "version": "0.4.20",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.20/BET-Suite-0.4.20.exe",
-  "notes": "Chiffrage : bloc de cout qui ne se superpose plus aux cartes de surface ; montants « Non renseigné » en un clic (saisie directe avec unite), fleches supprimees, molette qui defile la page sans changer les valeurs.",
-  "sha256": "945ca2d3488a4a256d0e4cfc6c3683e688e253e5a4e40b999f7bbe3fdd993bad"
+  "version": "0.4.21",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.21/BET-Suite-0.4.21.exe",
+  "notes": "Synchronisation Financier : carte « Facturé » corrigée (elle montrait l'encaisse au lieu du facturable), parts du bureau bien ponderees sur la tresorerie et les previsions pour les affaires partagees, formule de tresorerie expliquee sous les cartes ; repartition : plus de champ % (ni fleches) en affaire menée seule, fleches supprimees sur les montants.",
+  "sha256": "295efdbf145b25005ae710061bdda4f6efeaf137035804aeaad830d4d950146e"
 }
