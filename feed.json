@@ -1,6 +1,6 @@
 {
-  "version": "0.4.18",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.18/BET-Suite-0.4.18.exe",
-  "notes": "Tableau de bord Financier : cartes KPI compactes (plus d'etirement pleine hauteur), panneau d'alertes recentre, typographie affinee.",
-  "sha256": "e599b2289290afb1c321e5c4b7576f46348bb79c7599ce0ba9535dcc755bea7e"
+  "version": "0.4.19",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.19/BET-Suite-0.4.19.exe",
+  "notes": "Correctif de la mise a jour automatique : l'installeur s'execute desormais en silence apres fermeture de l'app (plus d'assistant ni d'erreur 'fichier utilise'), purge des anciens fichiers .bak.",
+  "sha256": "abea9de4cafa73e0cba8cedba46c8d19c3b7c74ab7d20cd795c010588690f687"
 }
