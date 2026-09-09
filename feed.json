@@ -1,6 +1,6 @@
 {
-  "version": "0.4.17",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.17/BET-Suite-0.4.17.exe",
-  "notes": "Barre de titre : boutons reduire/agrandir/fermer et avatar rendus a la densite reelle de l'ecran, plus de flou sur ecrans scales.",
-  "sha256": "22291c5600dd3fad30118770f15a00fa34841f0fd49f631b86360d311141a5c8"
+  "version": "0.4.18",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.18/BET-Suite-0.4.18.exe",
+  "notes": "Tableau de bord Financier : cartes KPI compactes (plus d'etirement pleine hauteur), panneau d'alertes recentre, typographie affinee.",
+  "sha256": "e599b2289290afb1c321e5c4b7576f46348bb79c7599ce0ba9535dcc755bea7e"
 }
