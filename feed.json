@@ -1,6 +1,6 @@
 {
-  "version": "0.4.22",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.22/BET-Suite-0.4.22.exe",
-  "notes": "Mise a jour automatique durcie : le script attend la sortie de TOUTES les instances de l'app, et force la fermeture de tout processus encore ouvert pendant l'installation — plus jamais de demande d'arreter les applications ni de fichier verrouille.",
-  "sha256": "f5fb023704f73d9f2e5699349888698f27d124b35e382abb30e11a49df5c995f"
+  "version": "0.4.23",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.23/BET-Suite-0.4.23.exe",
+  "notes": "Graphiques lisibles : axes des montants en format compact et francais (« 340 k », « 2,5 M », « 4,0 Md ») au lieu des chiffres bruts et du « 1e9 » qui recouvrait la legende ; etiquettes de mois tournees completement visibles.",
+  "sha256": "c0639931a55dca7ae47634c831db50ede17c9ef1af9842c7c1ccc23f39a3642c"
 }
