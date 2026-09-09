@@ -1,6 +1,6 @@
 {
-  "version": "0.4.13",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.13/BET-Suite-0.4.13.exe",
-  "notes": "Fenetre etroite : la barre d'outils du Suivi Affaires et le cartouche ne se font plus rogner (defilement horizontal). Icones nettes sur ecrans scales (rendu multi-densite).",
-  "sha256": "0ab694975cde08374799b0a75a507adb2087ae421a8a65ad9b496fe5acf8fdec"
+  "version": "0.4.14",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.14/BET-Suite-0.4.14.exe",
+  "notes": "Correctif urgent : icones rendues en fragments sur ecrans scales (125 % / 150 %). Rendu a la densite reelle de l'ecran, net et complet.",
+  "sha256": "edc4c6572759ca2b5a92e37426da762c79cdb52fb1927f17a721de3357a5da61"
 }
