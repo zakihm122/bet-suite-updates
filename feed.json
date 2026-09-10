@@ -1,6 +1,6 @@
 {
-  "version": "0.4.23",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.23/BET-Suite-0.4.23.exe",
-  "notes": "Graphiques lisibles : axes des montants en format compact et francais (« 340 k », « 2,5 M », « 4,0 Md ») au lieu des chiffres bruts et du « 1e9 » qui recouvrait la legende ; etiquettes de mois tournees completement visibles.",
-  "sha256": "c0639931a55dca7ae47634c831db50ede17c9ef1af9842c7c1ccc23f39a3642c"
+  "version": "0.4.24",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.24/BET-Suite-0.4.24.exe",
+  "notes": "Correction anti-gel : une fenetre sans cadre minimisee pouvait rester « presente mais 0x0 » et le clic sur la barre des taches ne ramenait plus rien. La fenetre se sonde desormais toutes les 2 s, la restauration SC_RESTORE est interceptee, et une fenetre minimisee trouvee par l'instance unique est relevee par showNormal.",
+  "sha256": "da81b06a3f2adf1dec7000e1a0165825e080401a19e0545286cb81fd3eefe22e"
 }
