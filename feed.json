@@ -1,6 +1,6 @@
 {
-  "version": "0.4.26",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.26/BET-Suite-0.4.26.exe",
-  "notes": "Alertes poussees enfin (delais deposes, echeances en retard, tresorerie) ; echeance creee encaisee d'office ; repartition reelle bureau/confrere (tableau de bord inclus) ; contrat generable (aperçu/Word) ; delai de livraison en duree calculee ; reference de convention pre-remplie ; chevrons et calendrier habilles ; tresorerie corrige.",
-  "sha256": "4de115b2c20311c4bef5cb8bc1f524af7be7aa0e068cce3da3bf6529f31d1a18"
+  "version": "0.4.27",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.27/BET-Suite-0.4.27.exe",
+  "notes": "Cloche d'alertes dans la barre de titre : pastille rouge numerotee, panneau cliquable (retards, delais, tresorerie) et mini-notification style Instagram (coin bas droit, 10 secondes puis elle fonde) a chaque nouvelle alerte et a l'ouverture de l'app ; le bandeau de chips pleine largeur est supprime.",
+  "sha256": "7164e161e4339f5d2481ac175702fe3f000d7a22e98dae02671a9006c25e4be5"
 }
