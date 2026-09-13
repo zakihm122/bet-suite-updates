@@ -1,6 +1,6 @@
 {
-  "version": "0.4.25",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.25/BET-Suite-0.4.25.exe",
-  "notes": "Menu Actions a trois points verticaux (icone SVG) au lieu d'un glyphe texte qui s'affichait en boite ; empaquetage : torch CUDA (inutilise) exclu du binaire, sa taille retombe sous 350 Mo.",
-  "sha256": "3d974a100843e0a36a71bfe7109fc277a5fbdd792a490cecfdfdf9e3e729f4d9"
+  "version": "0.4.26",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.26/BET-Suite-0.4.26.exe",
+  "notes": "Alertes poussees enfin (delais deposes, echeances en retard, tresorerie) ; echeance creee encaisee d'office ; repartition reelle bureau/confrere (tableau de bord inclus) ; contrat generable (aperçu/Word) ; delai de livraison en duree calculee ; reference de convention pre-remplie ; chevrons et calendrier habilles ; tresorerie corrige.",
+  "sha256": "4de115b2c20311c4bef5cb8bc1f524af7be7aa0e068cce3da3bf6529f31d1a18"
 }
