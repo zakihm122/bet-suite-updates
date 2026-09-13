@@ -1,7 +1,6 @@
 {
   "version": "1.0.2",
   "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.2/BET-Suite-1.0.2-alpha.exe",
-  "notes": "⚠ SI vous venez d'une version pre-1.0 : la base locale redemarre a zero (ancienne sauvegardee en betsuite.db.avant-1.0.0.bak, cle a revalider, compte a recreer). 1.0.2 : + calendrier maison (chiffres et chevrons de nouveau lisibles — le style global ecrasait les boutons du panneau) ; + compte a rebours de l'abonnement en jours affiche sur « Licence : MAX — NNN j » (ou « expirée ») ; rappel 1.0.x : multi-comptes admin/worker, cles 1/3/5/10 PC a un an, gardien Wi-Fi, cloche d'alertes, echeances modifiables, repartition bureau/confrere reelle, contrat et blocs du projet.",
-  "sha256": "aeb3899fbfcf79a455dd716c92363fa27b158a46a86714372f985e8d383bef66",
-  "wipe": true
+  "notes": "1.0.2 : calendrier maison (chiffres et chevrons lisibles), compte a rebours de l'abonnement en jours sur « Licence : MAX — NNN j ». La migration 1.0 ne s'applique qu'UNE fois (au premier lancement d'une 1.0 sur une base pre-1.0) : plus aucun effacement automatique ensuite.",
+  "sha256": "aeb3899fbfcf79a455dd716c92363fa27b158a46a86714372f985e8d383bef66"
 }
