@@ -1,6 +1,6 @@
 {
-  "version": "0.4.28",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.28/BET-Suite-0.4.28.exe",
-  "notes": "Echeances editables et supprimables meme apres encaissement ; nouvelle section « Blocs du projet » dans Général (creer, renommer, supprimer des blocs A/B/C d'un permis) et rattachement de chaque mission au bloc physique qui la porte.",
-  "sha256": "ea20ba7693ea85b7b3db05d794d4c563e985ed0e51aa77a810917d33f115ae6f"
+  "version": "0.4.29",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.29/BET-Suite-0.4.29.exe",
+  "notes": "Gardien Wi-Fi : app ouverte sans reseau = pop bloquante ; coupure en session = compte a rebours de 90 s puis sauvegarde et fermeture. Abonnement de licence d'un an (reabonnement apres, enforce client et serveur). Onglet Technique : etapes 7-13 portees par un bloc physique du permis (Bloc A/B/C).",
+  "sha256": "46048cfadad86227956df503d8c8a4370fcd0dc5fb7283210dffd57157c82686"
 }
