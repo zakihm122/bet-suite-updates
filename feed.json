@@ -1,6 +1,6 @@
 {
-  "version": "0.4.24",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.24/BET-Suite-0.4.24.exe",
-  "notes": "Correction anti-gel : une fenetre sans cadre minimisee pouvait rester « presente mais 0x0 » et le clic sur la barre des taches ne ramenait plus rien. La fenetre se sonde desormais toutes les 2 s, la restauration SC_RESTORE est interceptee, et une fenetre minimisee trouvee par l'instance unique est relevee par showNormal.",
-  "sha256": "da81b06a3f2adf1dec7000e1a0165825e080401a19e0545286cb81fd3eefe22e"
+  "version": "0.4.25",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.25/BET-Suite-0.4.25.exe",
+  "notes": "Menu Actions a trois points verticaux (icone SVG) au lieu d'un glyphe texte qui s'affichait en boite ; empaquetage : torch CUDA (inutilise) exclu du binaire, sa taille retombe sous 350 Mo.",
+  "sha256": "3d974a100843e0a36a71bfe7109fc277a5fbdd792a490cecfdfdf9e3e729f4d9"
 }
