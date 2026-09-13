@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.2/BET-Suite-1.0.2-alpha.exe",
-  "notes": "1.0.2 : calendrier maison (chiffres et chevrons lisibles), compte a rebours de l'abonnement en jours sur « Licence : MAX — NNN j ». La migration 1.0 ne s'applique qu'UNE fois (au premier lancement d'une 1.0 sur une base pre-1.0) : plus aucun effacement automatique ensuite.",
-  "sha256": "aeb3899fbfcf79a455dd716c92363fa27b158a46a86714372f985e8d383bef66"
+  "version": "1.0.3",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.3/BET-Suite-1.0.3-alpha.exe",
+  "notes": "1.0.3 : panneau de dates a fond opaque (plus de transparence defaillante) ; affichage lisible de la date d'expiration d'abonnement (le compteur « X j » se voit sur Licence : MAX/BASIC) ; mission rattachable a PLUSIEURS blocs physiques (cases A/B/C par mission, table de liens n-n). Rien n'est efface : la migration 1.0 ne tourne qu'une fois par poste (drapeau interne).",
+  "sha256": "d4e07a4d7d038f36a83ca904cffec61322bec6287b39a03d9062d8d6f9585314"
 }
