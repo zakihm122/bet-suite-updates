@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.3/BET-Suite-1.0.3-alpha.exe",
-  "notes": "1.0.3 : panneau de dates a fond opaque (plus de transparence defaillante) ; affichage lisible de la date d'expiration d'abonnement (le compteur « X j » se voit sur Licence : MAX/BASIC) ; mission rattachable a PLUSIEURS blocs physiques (cases A/B/C par mission, table de liens n-n). Rien n'est efface : la migration 1.0 ne tourne qu'une fois par poste (drapeau interne).",
-  "sha256": "d4e07a4d7d038f36a83ca904cffec61322bec6287b39a03d9062d8d6f9585314"
+  "version": "1.0.4",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.4/BET-Suite-1.0.4-alpha.exe",
+  "notes": "Calendrier maison : le panneau s'ouvre a l'INTERIEUR de l'ecran (repli au-dessus du champ s'il manque de la place) et le jour cliqué CHANGE la date du champ (avant : la valeur restait ignorée). Rien d'autre ne change.",
+  "sha256": "14a55c46eab19af0193c1850da112696468e438433075db26d4369a7f55bc305"
 }
