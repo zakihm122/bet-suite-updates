@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.0/BET-Suite-1.0.0-alpha.exe",
-  "notes": "⚠ CETTE MISE À JOUR RAFRAÎCHI LA BASE LOCALE : BET-Suite 1.0.0-alpha démarre à neuf (l'ancienne base est sauvegardée dans betsuite.db.avant-1.0.0.bak ; votre clé devra être revalidée). NOUVEAUTÉS depuis pre-alpha 0.4.24 : + Menu Autres actions en trois points verticaux ; + Fenêtre réduite réparée (anti-gel) ; + Tableaux absorbent les grands écrans ; + Chevrons et calendrier habillés ; + CLOCHE d'alertes (pastille rouge numérotée, panneau cliquable, pop type Instagram 10 s) ; + Échéances : encaissées d'office, modifiables/supprimables ; + Répartition bureau/confrère réelle (par affaire et en cumul) ; + Contrat de prestation génégable (Aperçu/Word) ; + Délai de livraison en durée + référence de convention automatique ; + BLOCS DU PROJET (bloc A/B/C) liés aux missions et aux étapes 7-13 ; 1.0 : MULTI-COMPTES (admin complet, worker sans l'argent), CLÉS 1/3/5/10 PC à leur prix avec abonnement UN AN, gardien Wi-Fi (pop bloquante, 90 s puis sauvegarde+fermeture), base et clés serveur reparties à zéro.",
-  "sha256": "5c08e28d93775b4b393639fcf1dfad212fa1cacb94254051c5474acd0338d094",
+  "version": "1.0.1",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.1/BET-Suite-1.0.1-alpha.exe",
+  "notes": "⚠ CETTE MISE À JOUR DÉMARRE LA BASE À ZÉRO (l'ancienne est sauvegardée dans betsuite.db.avant-1.0.0.bak ; votre clé devra être revalidée). 1.0.1 : + Sélecteur de dates maison (calendrier sombre façon Mobbin — plus de popup Windows) ; + Migration franche 1.0 appliquée AU DÉMARRAGE, même hors mise à jour automatique ; + Gardien Wi-Fi epsillé et testé unitairement. Rappel 1.0.0 : multi-comptes admin/worker, clés 1/3/5/10 PC abonnement un an, gardien Wi-Fi (90 s puis sauvegarde+fermeture), cloche d'alertes, échéances modifiables, répartition bureau/confrère réelle, contrat génésable, blocs du projet.",
+  "sha256": "27a3f902d9ad577260aa46961e14daf18ae4e4e2179fac464f84191f99ec61cb",
   "wipe": true
 }
