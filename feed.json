@@ -1,6 +1,6 @@
 {
-  "version": "0.4.27",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.27/BET-Suite-0.4.27.exe",
-  "notes": "Cloche d'alertes dans la barre de titre : pastille rouge numerotee, panneau cliquable (retards, delais, tresorerie) et mini-notification style Instagram (coin bas droit, 10 secondes puis elle fonde) a chaque nouvelle alerte et a l'ouverture de l'app ; le bandeau de chips pleine largeur est supprime.",
-  "sha256": "7164e161e4339f5d2481ac175702fe3f000d7a22e98dae02671a9006c25e4be5"
+  "version": "0.4.28",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.28/BET-Suite-0.4.28.exe",
+  "notes": "Echeances editables et supprimables meme apres encaissement ; nouvelle section « Blocs du projet » dans Général (creer, renommer, supprimer des blocs A/B/C d'un permis) et rattachement de chaque mission au bloc physique qui la porte.",
+  "sha256": "ea20ba7693ea85b7b3db05d794d4c563e985ed0e51aa77a810917d33f115ae6f"
 }
