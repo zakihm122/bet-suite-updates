@@ -1,6 +1,7 @@
 {
-  "version": "0.4.29",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v0.4.29/BET-Suite-0.4.29.exe",
-  "notes": "Gardien Wi-Fi : app ouverte sans reseau = pop bloquante ; coupure en session = compte a rebours de 90 s puis sauvegarde et fermeture. Abonnement de licence d'un an (reabonnement apres, enforce client et serveur). Onglet Technique : etapes 7-13 portees par un bloc physique du permis (Bloc A/B/C).",
-  "sha256": "46048cfadad86227956df503d8c8a4370fcd0dc5fb7283210dffd57157c82686"
+  "version": "1.0.0",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.0/BET-Suite-1.0.0-alpha.exe",
+  "notes": "⚠ CETTE MISE À JOUR RAFRAÎCHI LA BASE LOCALE : BET-Suite 1.0.0-alpha démarre à neuf (l'ancienne base est sauvegardée dans betsuite.db.avant-1.0.0.bak ; votre clé devra être revalidée). NOUVEAUTÉS depuis pre-alpha 0.4.24 : + Menu Autres actions en trois points verticaux ; + Fenêtre réduite réparée (anti-gel) ; + Tableaux absorbent les grands écrans ; + Chevrons et calendrier habillés ; + CLOCHE d'alertes (pastille rouge numérotée, panneau cliquable, pop type Instagram 10 s) ; + Échéances : encaissées d'office, modifiables/supprimables ; + Répartition bureau/confrère réelle (par affaire et en cumul) ; + Contrat de prestation génégable (Aperçu/Word) ; + Délai de livraison en durée + référence de convention automatique ; + BLOCS DU PROJET (bloc A/B/C) liés aux missions et aux étapes 7-13 ; 1.0 : MULTI-COMPTES (admin complet, worker sans l'argent), CLÉS 1/3/5/10 PC à leur prix avec abonnement UN AN, gardien Wi-Fi (pop bloquante, 90 s puis sauvegarde+fermeture), base et clés serveur reparties à zéro.",
+  "sha256": "5c08e28d93775b4b393639fcf1dfad212fa1cacb94254051c5474acd0338d094",
+  "wipe": true
 }
