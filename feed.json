@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.6/BET-Suite-1.0.6-alpha.exe",
-  "notes": "1.0.6 : suivi de chantier en DA/mois (ni releve au m², ni forfait) ; argent honnete — bandeau et carte par bloc concordent (Honoraires HT / Encaissé bureau / Encaissé confrère / Restant) ; carte « Calcul par bloc(s) du permis » supprimée.",
-  "sha256": "56e2db301c1e69b096eaabf957c8a651a50324161ad34ee0da082efd62b2e27a"
+  "version": "1.0.6.1",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/untagged-34ee430fd30342f68765/BET-Suite-1.0.6.1-alpha.exe",
+  "notes": "Gardien reseau repare (self._win → self) : pop wifi bloquante au demarrage hors reseau, compte a rebours 90 s en cas de perte en session, toast au retour.",
+  "sha256": "738c2f732e68614e1d3bdbf8b57fafb0fafc6ded52572a22c722c8b22619b06b"
 }
