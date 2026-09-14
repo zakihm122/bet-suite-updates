@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.5/BET-Suite-1.0.5-alpha.exe",
-  "notes": "1.0.5 : ENCAISSER en un clic sur une échéance en attente ; carte « Calcul par bloc(s) du permis » (surface + argent d'un bloc seul, de deux...) avec AT Tilization de chaque niveau sur sa carte de surface ; champs de dates sans valeur = JOUR (plus 01/01/2000).",
-  "sha256": "8d0278c74a3304ba88d1fcfca074a0611d34ee355c09c1a05201fa58731b81fb"
+  "version": "1.0.6",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.6/BET-Suite-1.0.6-alpha.exe",
+  "notes": "1.0.6 : suivi de chantier en DA/mois (ni releve au m², ni forfait) ; argent honnete — bandeau et carte par bloc concordent (Honoraires HT / Encaissé bureau / Encaissé confrère / Restant) ; carte « Calcul par bloc(s) du permis » supprimée.",
+  "sha256": "56e2db301c1e69b096eaabf957c8a651a50324161ad34ee0da082efd62b2e27a"
 }
