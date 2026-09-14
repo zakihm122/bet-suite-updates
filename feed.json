@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.8/BET-Suite-1.0.8-alpha.exe",
-  "notes": "Reglages complets : compte (mot de passe), utilisateurs, sons de notification, mise a jour automatique meme application fermee, activite avec postes en ligne et IP. Popups modernes et champ Duree maison.",
-  "sha256": "03c9ee7101916b3fa3f441278fbc7521967cd68cad455193149ae0cdec6bc22b"
+  "version": "1.0.8.1",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.8.1/BET-Suite-1.0.8.1-alpha.exe",
+  "notes": "Retours 1.0.8 : reglages repares (crash au clic), affaire solo sans options confrere, onglet Finances qui tient a l'ecran, popups sans barre de titre Windows (titre + croix dans la carte).",
+  "sha256": "9a20dba7e451edb1db0fc1fc852c60f5f57b16d174b36aaa9b180a9705ebe1d2"
 }
