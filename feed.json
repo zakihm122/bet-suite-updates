@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8.1",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.8.1/BET-Suite-1.0.8.1-alpha.exe",
-  "notes": "Retours 1.0.8 : reglages repares (crash au clic), affaire solo sans options confrere, onglet Finances qui tient a l'ecran, popups sans barre de titre Windows (titre + croix dans la carte).",
-  "sha256": "9a20dba7e451edb1db0fc1fc852c60f5f57b16d174b36aaa9b180a9705ebe1d2"
+  "version": "1.0.8.2",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.8.2/BET-Suite-1.0.8.2-alpha.exe",
+  "notes": "Finitions 1.0.8 : popups translucides sans chassis noir autour de la carte, reglages repares (QCheckBox), repartition appliquee aussitot (plus de bouton Enregistrer), affaire solo sans mention confrere 0 DA.",
+  "sha256": "d6956f0723832f5fae78c847b240a4bcbede9d1aad26f69ff6771e5057b3cf83"
 }
