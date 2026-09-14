@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.4/BET-Suite-1.0.4-alpha.exe",
-  "notes": "Calendrier maison : le panneau s'ouvre a l'INTERIEUR de l'ecran (repli au-dessus du champ s'il manque de la place) et le jour cliqué CHANGE la date du champ (avant : la valeur restait ignorée). Rien d'autre ne change.",
-  "sha256": "14a55c46eab19af0193c1850da112696468e438433075db26d4369a7f55bc305"
+  "version": "1.0.5",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.5/BET-Suite-1.0.5-alpha.exe",
+  "notes": "Bouton ENCAISSER en un clic sur chaque ligne non encaissée (affaire seule : direct ; partagée : micro-choix qui perçoit) ; les champs de dates sans valeur montrent le JOUR, plus l'epoch 01/01/2000.",
+  "sha256": "7f6c5b5cce6121a40731398156ab3979db8872d443cc6b18796d1d96fd59b3e6"
 }
