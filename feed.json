@@ -1,6 +1,6 @@
 {
-    "sha256":  "55f2695f790bbccbbafe0b4546368533ca5fb3a0d12974c843c2d16b650b2d07",
-    "url":  "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.9.5/BET-Suite-Setup-1.0.9.5-alpha.exe",
-    "version":  "1.0.9.5",
-    "notes":  "1.0.9.5 : export d'une copie de la base (betsuite.db) et restauration d'une sauvegarde depuis Reglages > Compte, avec copie de securite automatique."
+    "sha256":  "e6a0c0b59dc75349c51abc0f7d6e20e3bc0a2bfe59a53d0483ffa873896e1ee2",
+    "url":  "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10/BET-Suite-Setup-1.0.10-alpha.exe",
+    "version":  "1.0.10",
+    "notes":  "1.0.10 : architecture one-dir - l'application demarre instantanement (plus de decompression de 330 Mo a chaque ouverture), l'installeur passe de 330 a 227 Mo, et les prochaines mises a jour seront DELTA (quelques Mo)."
 }
