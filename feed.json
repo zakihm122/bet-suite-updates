@@ -1,6 +1,6 @@
 {
-    "sha256":  "3a006737d5c6ca69e0a2424e39a3248622a32fe8228aa897b28f81f85ba8351c",
-    "url":  "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.8.6/BET-Suite-Setup-1.0.8.6-alpha.exe",
-    "version":  "1.0.8.6",
-    "notes":  "1.0.8.6 : onglets suivi fixes (visibles et elides), zone mensuel en grille, reglages integres et rapides."
+    "sha256":  "ea59937d914f9dd0be65018c586c7ae130b0e4265b15c6ff668b47d11ff611f8",
+    "url":  "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.8.7/BET-Suite-Setup-1.0.8.7-alpha.exe",
+    "version":  "1.0.8.7",
+    "notes":  "1.0.8.7 : blocs selectionnables dans Suivi technique, plus de console qui clignote, croix de fermeture et version bien placees dans Reglages."
 }
