@@ -1,6 +1,6 @@
 {
-    "sha256":  "e6a0c0b59dc75349c51abc0f7d6e20e3bc0a2bfe59a53d0483ffa873896e1ee2",
-    "url":  "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10/BET-Suite-Setup-1.0.10-alpha.exe",
-    "version":  "1.0.10",
-    "notes":  "1.0.10 : architecture one-dir - l'application demarre instantanement (plus de decompression de 330 Mo a chaque ouverture), l'installeur passe de 330 a 227 Mo, et les prochaines mises a jour seront DELTA (quelques Mo)."
+    "sha256":  "d689db1d743cc10cc7ac48bacd37edfef8755c177129d2f2eccd6e81fb2ce66a",
+    "url":  "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.1/BET-Suite-Setup-1.0.10.1-alpha.exe",
+    "version":  "1.0.10.1",
+    "notes":  "1.0.10.1 : statut en ligne repare - les pings de presence passaient un UA Python bloque par cloudflare (403) ; indicateur, IP et liste des postes en ligne fonctionnels. Depot delta 1.0.10."
 }
