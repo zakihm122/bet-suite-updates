@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8.4",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.8.4/BET-Suite-1.0.8.4-alpha.exe",
-  "notes": "Reglages reouvrent : crash widget/layout inverse repare, reponse reseau apres fermeture avalee.",
-  "sha256": "aa2273d4bff49fe3af6382c955a6a3111fe94ce19728b00221e59e4618859e73"
+    "sha256":  "7e77d80b1f4aa16141b81344f8490014583fb3a8cfe3218b3d976b65ef43c007",
+    "url":  "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.8.5/BET-Suite-Setup-1.0.8.5-alpha.exe",
+    "version":  "1.0.8.5",
+    "notes":  "Etapes multi-blocs (7-13), bandeau suivi 3 cartes, duree par dates, onglets compressibles, sons propres."
 }
