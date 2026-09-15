@@ -1,6 +1,6 @@
 {
-    "sha256":  "03c7bbe6b713fdfe1adb5d39efa02e5c78296f10d19a9b781f5519b5e3f14b1d",
-    "url":  "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.9.3/BET-Suite-Setup-1.0.9.3-alpha.exe",
-    "version":  "1.0.9.3",
-    "notes":  "1.0.9.3 : page d'erreur au relancement supprimee (paquetage pytest/pkg_resources retire du bundle), IP locale fiable dans le journal et la page Activite, diagnostics de rendu (icones/logo) journalises pour localiser tout defaut restant."
+    "sha256":  "65649101e0ff7317022a7d6bc71fade1d0232b378cadeac12622286f944fbc21",
+    "url":  "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.9.4/BET-Suite-Setup-1.0.9.4-alpha.exe",
+    "version":  "1.0.9.4",
+    "notes":  "1.0.9.4 : deconnexion/reconnexion sans crash (le relancement n'heritait plus du dossier temporaire PyInstaller - d'ou logo/icines manquants, crash a 100% et alerte dossier temporaire), section Securite masquee pour le compte worker."
 }
