@@ -1,6 +1,6 @@
 {
-    "sha256":  "29755bb20f3918693bc07fb7fec777e537242c0cbc4d4e0d8df11bd56452a00e",
-    "url":  "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.9/BET-Suite-Setup-1.0.9-alpha.exe",
-    "version":  "1.0.9",
-    "notes":  "1.0.9 : nouveau module Suivi de chantier (placeholder 'Bientot disponible' avec son d'ouverture) et effets sonores remplaces par de vrais fichiers sonores."
+    "sha256":  "1077d24a3e433ff6d0893e4a24544df2ab6ad60e11ad3ee75b6eff018c2a1452",
+    "url":  "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.9.1/BET-Suite-Setup-1.0.9.1-alpha.exe",
+    "version":  "1.0.9.1",
+    "notes":  "1.0.9.1 : correctif de la 1.0.9 (module Suivi non charge au demarrage). Comprend le module Suivi de chantier placeholder 'Bientot disponible' et les vrais effets sonores."
 }
