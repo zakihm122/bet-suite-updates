@@ -1,6 +1,6 @@
 {
-    "sha256":  "ea59937d914f9dd0be65018c586c7ae130b0e4265b15c6ff668b47d11ff611f8",
-    "url":  "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.8.7/BET-Suite-Setup-1.0.8.7-alpha.exe",
-    "version":  "1.0.8.7",
-    "notes":  "1.0.8.7 : blocs selectionnables dans Suivi technique, plus de console qui clignote, croix de fermeture et version bien placees dans Reglages."
+    "sha256":  "74ec3e13ce49dfb5e1ce492b7d0abd456286488a96801e86d621e1f376eeaa37",
+    "url":  "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.8.8/BET-Suite-Setup-1.0.8.8-alpha.exe",
+    "version":  "1.0.8.8",
+    "notes":  "1.0.8.8 : telechargement de mise a jour fiabilise — reprise et fin de faux echecs de connexion."
 }
