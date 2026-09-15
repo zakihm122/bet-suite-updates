@@ -1,6 +1,6 @@
 {
-    "sha256":  "7e77d80b1f4aa16141b81344f8490014583fb3a8cfe3218b3d976b65ef43c007",
-    "url":  "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.8.5/BET-Suite-Setup-1.0.8.5-alpha.exe",
-    "version":  "1.0.8.5",
-    "notes":  "Etapes multi-blocs (7-13), bandeau suivi 3 cartes, duree par dates, onglets compressibles, sons propres."
+    "sha256":  "3a006737d5c6ca69e0a2424e39a3248622a32fe8228aa897b28f81f85ba8351c",
+    "url":  "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.8.6/BET-Suite-Setup-1.0.8.6-alpha.exe",
+    "version":  "1.0.8.6",
+    "notes":  "1.0.8.6 : onglets suivi fixes (visibles et elides), zone mensuel en grille, reglages integres et rapides."
 }
