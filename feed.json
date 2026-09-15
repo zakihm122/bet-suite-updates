@@ -1,6 +1,9 @@
 {
-    "sha256":  "d689db1d743cc10cc7ac48bacd37edfef8755c177129d2f2eccd6e81fb2ce66a",
-    "url":  "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.1/BET-Suite-Setup-1.0.10.1-alpha.exe",
-    "version":  "1.0.10.1",
-    "notes":  "1.0.10.1 : statut en ligne repare - les pings de presence passaient un UA Python bloque par cloudflare (403) ; indicateur, IP et liste des postes en ligne fonctionnels. Depot delta 1.0.10."
+    "sha256":  "1ffeef2e29e00578eb55a36222a1a562377124829a0780f46e747814740a9325",
+    "url":  "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.2/BET-Suite-Setup-1.0.10.2-alpha.exe",
+    "delta_url":  "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.2/BET-Suite-delta-1.0.10.2.zip",
+    "delta_sha256":  "5b3b5bc5cd7da20515917615518b950fec4499462684c88f4cc1543bda1cf928",
+    "delta_from":  "1.0.10.1",
+    "version":  "1.0.10.2",
+    "notes":  "1.0.10.2 : mise a jour DELTA en production - depuis 1.0.10.1, seuls les fichiers modifies sont telecharges (22 Mo au lieu de 227 Mo), appliques par-dessus le dossier installe en quelques secondes. Les fichiers retires sont supprimes automatiquement (make_delta.py)."
 }
