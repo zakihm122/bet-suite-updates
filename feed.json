@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8.2",
-  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.8.2/BET-Suite-1.0.8.2-alpha.exe",
-  "notes": "Finitions 1.0.8 : popups translucides sans chassis noir autour de la carte, reglages repares (QCheckBox), repartition appliquee aussitot (plus de bouton Enregistrer), affaire solo sans mention confrere 0 DA.",
-  "sha256": "d6956f0723832f5fae78c847b240a4bcbede9d1aad26f69ff6771e5057b3cf83"
+  "version": "1.0.8.3",
+  "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.8.3/BET-Suite-1.0.8.3-alpha.exe",
+  "notes": "Reglages retouches a la maniere d'OpenCode (navigation groupee, pages rangees), CINQ sons par niveau + aleatoire, ouverture des reglages sans blocage reseau, tables aerees.",
+  "sha256": "4df10bfd62c18d83ab0086e9768ec7d128248ccb22f8a1cbb5b6f160e8738625"
 }
