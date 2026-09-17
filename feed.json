@@ -1,26 +1,31 @@
 {
-    "sha256": "36c6ed8b71240c504ec8b9c353c3e3abe478660c382eb9e12c0ba174d17935c9",
-    "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.4/BET-Suite-Setup-1.0.10.4-alpha.exe",
-    "delta_url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.4/BET-Suite-delta-1.0.10.4-depuis-1.0.10.2.zip",
-    "delta_sha256": "903252723942e46155267fb97d9c3eae88b4035d74bebf7de811372f0b43e5b3",
-    "delta_from": "1.0.10.2",
+    "sha256": "0bde08ec3f1183e12a7f046623044d3ef20c9a4483cf6cdf188da31998466847",
+    "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.5/BET-Suite-Setup-1.0.10.5-alpha.exe",
+    "delta_url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.5/BET-Suite-delta-1.0.10.5-depuis-1.0.10.4.zip",
+    "delta_sha256": "1de39d7b4355a6ac17786fd7ea5cbbfbecabe8d6f9b6e62b772d57bddd93b8fb",
+    "delta_from": "1.0.10.4",
     "deltas": [
         {
             "from": "1.0.10.1",
-            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.4/BET-Suite-delta-1.0.10.4-depuis-1.0.10.1.zip",
-            "sha256": "8fb176301cfed3adb34828ef3ce8e463ccaee3c89b39d3221f724f2911845e80"
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.5/BET-Suite-delta-1.0.10.5-depuis-1.0.10.1.zip",
+            "sha256": "57e1cc8b2bbe5a7e7d3268ecc969ee259d124093b02f19b508650139f5b09bad"
         },
         {
             "from": "1.0.10.2",
-            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.4/BET-Suite-delta-1.0.10.4-depuis-1.0.10.2.zip",
-            "sha256": "903252723942e46155267fb97d9c3eae88b4035d74bebf7de811372f0b43e5b3"
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.5/BET-Suite-delta-1.0.10.5-depuis-1.0.10.2.zip",
+            "sha256": "c8eff7b4447924fac4e6ba210828a5aeddc6094f6f9f51852e346aef2110f403"
         },
         {
             "from": "1.0.10.3",
-            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.4/BET-Suite-delta-1.0.10.4-depuis-1.0.10.3.zip",
-            "sha256": "763f8df0fedb2e9341be2633396c6b9a91f0fe39157372a923a2894058ed7628"
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.5/BET-Suite-delta-1.0.10.5-depuis-1.0.10.3.zip",
+            "sha256": "c5c0db8cfde618fd0e5934950f647f8cebd467ade18c6f95bd32d93324e377cf"
+        },
+        {
+            "from": "1.0.10.4",
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.5/BET-Suite-delta-1.0.10.5-depuis-1.0.10.4.zip",
+            "sha256": "1de39d7b4355a6ac17786fd7ea5cbbfbecabe8d6f9b6e62b772d57bddd93b8fb"
         }
     ],
-    "version": "1.0.10.4",
-    "notes": "1.0.10.4 : les tableaux gardaient la ligne \u00ab aucun element \u00bb etendue sur toute la largeur : la 1re donnee creee n affichait que sa 1re colonne. Corrige dans tout le logiciel."
+    "version": "1.0.10.5",
+    "notes": "1.0.10.5 : apres la premiere creation dans un tableau, les largeurs de colonnes restaient figees sur l etat vide (1re colonne tronquee, colonne du milieu recouvrant les suivantes). Recalcul automatique."
 }
