@@ -1,31 +1,36 @@
 {
-    "sha256": "0bde08ec3f1183e12a7f046623044d3ef20c9a4483cf6cdf188da31998466847",
-    "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.5/BET-Suite-Setup-1.0.10.5-alpha.exe",
-    "delta_url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.5/BET-Suite-delta-1.0.10.5-depuis-1.0.10.4.zip",
-    "delta_sha256": "1de39d7b4355a6ac17786fd7ea5cbbfbecabe8d6f9b6e62b772d57bddd93b8fb",
-    "delta_from": "1.0.10.4",
+    "sha256": "f1e1cd2e8ea054693945838ce5f7dc3bce4b4e755760c1cd2618cc92897e065e",
+    "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.11/BET-Suite-Setup-1.0.11-alpha.exe",
+    "delta_url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.11/BET-Suite-delta-1.0.11-depuis-1.0.10.5.zip",
+    "delta_sha256": "c904ac0fab4b5f91605ea91252fe812366c78683bcdb90c872d3cc720bc63962",
+    "delta_from": "1.0.10.5",
     "deltas": [
         {
             "from": "1.0.10.1",
-            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.5/BET-Suite-delta-1.0.10.5-depuis-1.0.10.1.zip",
-            "sha256": "57e1cc8b2bbe5a7e7d3268ecc969ee259d124093b02f19b508650139f5b09bad"
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.11/BET-Suite-delta-1.0.11-depuis-1.0.10.1.zip",
+            "sha256": "10ee0a80af0836cb7547c9f4b2a73d16dcfa616724fa5de03c7be91c5c9c1e82"
         },
         {
             "from": "1.0.10.2",
-            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.5/BET-Suite-delta-1.0.10.5-depuis-1.0.10.2.zip",
-            "sha256": "c8eff7b4447924fac4e6ba210828a5aeddc6094f6f9f51852e346aef2110f403"
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.11/BET-Suite-delta-1.0.11-depuis-1.0.10.2.zip",
+            "sha256": "aee5e0a4ce1fec16773a9a3d5ce1e40a9fc4f5ca980766eb0845c4c300e17a99"
         },
         {
             "from": "1.0.10.3",
-            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.5/BET-Suite-delta-1.0.10.5-depuis-1.0.10.3.zip",
-            "sha256": "c5c0db8cfde618fd0e5934950f647f8cebd467ade18c6f95bd32d93324e377cf"
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.11/BET-Suite-delta-1.0.11-depuis-1.0.10.3.zip",
+            "sha256": "a9ad266ed72b4c47d4b6b5027f97949fab9166d13e4bde123317dca95649a056"
         },
         {
             "from": "1.0.10.4",
-            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.5/BET-Suite-delta-1.0.10.5-depuis-1.0.10.4.zip",
-            "sha256": "1de39d7b4355a6ac17786fd7ea5cbbfbecabe8d6f9b6e62b772d57bddd93b8fb"
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.11/BET-Suite-delta-1.0.11-depuis-1.0.10.4.zip",
+            "sha256": "34e2b35ff44e92c00a6601950eeb6ada41f32cd254358308f03291a9417a3c06"
+        },
+        {
+            "from": "1.0.10.5",
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.11/BET-Suite-delta-1.0.11-depuis-1.0.10.5.zip",
+            "sha256": "c904ac0fab4b5f91605ea91252fe812366c78683bcdb90c872d3cc720bc63962"
         }
     ],
-    "version": "1.0.10.5",
-    "notes": "1.0.10.5 : apres la premiere creation dans un tableau, les largeurs de colonnes restaient figees sur l etat vide (1re colonne tronquee, colonne du milieu recouvrant les suivantes). Recalcul automatique."
+    "version": "1.0.11",
+    "notes": "1.0.11 : l admin attribue les dossiers a l equipe (bouton Equipe), tableaux administratifs pleinement editables (date, numero, tout detail), facture pro forma et bon de commande emis depuis l interface, montants coupes au worker."
 }
