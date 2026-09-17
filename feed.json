@@ -1,21 +1,26 @@
 {
-    "sha256":  "78403fff98619850efece303ea4db79c76114b9b7f29a2d123a5648f78863fe7",
-    "url":  "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.3/BET-Suite-Setup-1.0.10.3-alpha.exe",
-    "delta_url":  "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.3/BET-Suite-delta-1.0.10.3-depuis-1.0.10.2.zip",
-    "delta_sha256":  "5cd569c8c2b814b41957f2753d34bf72628d69887622ac51ce3aa548648c178d",
-    "delta_from":  "1.0.10.2",
-    "deltas":  [
+    "sha256": "36c6ed8b71240c504ec8b9c353c3e3abe478660c382eb9e12c0ba174d17935c9",
+    "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.4/BET-Suite-Setup-1.0.10.4-alpha.exe",
+    "delta_url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.4/BET-Suite-delta-1.0.10.4-depuis-1.0.10.2.zip",
+    "delta_sha256": "903252723942e46155267fb97d9c3eae88b4035d74bebf7de811372f0b43e5b3",
+    "delta_from": "1.0.10.2",
+    "deltas": [
         {
-            "from":  "1.0.10.1",
-            "url":  "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.3/BET-Suite-delta-1.0.10.3-depuis-1.0.10.1.zip",
-            "sha256":  "ba2e6c4f37f1f772519e42e871d3c5b15d365b09fc81f340406ec52e3664f3f9"
+            "from": "1.0.10.1",
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.4/BET-Suite-delta-1.0.10.4-depuis-1.0.10.1.zip",
+            "sha256": "8fb176301cfed3adb34828ef3ce8e463ccaee3c89b39d3221f724f2911845e80"
         },
         {
-            "from":  "1.0.10.2",
-            "url":  "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.3/BET-Suite-delta-1.0.10.3-depuis-1.0.10.2.zip",
-            "sha256":  "5cd569c8c2b814b41957f2753d34bf72628d69887622ac51ce3aa548648c178d"
+            "from": "1.0.10.2",
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.4/BET-Suite-delta-1.0.10.4-depuis-1.0.10.2.zip",
+            "sha256": "903252723942e46155267fb97d9c3eae88b4035d74bebf7de811372f0b43e5b3"
+        },
+        {
+            "from": "1.0.10.3",
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.10.4/BET-Suite-delta-1.0.10.4-depuis-1.0.10.3.zip",
+            "sha256": "763f8df0fedb2e9341be2633396c6b9a91f0fe39157372a923a2894058ed7628"
         }
     ],
-    "version":  "1.0.10.3",
-    "notes":  "1.0.10.3 : sondes reseau deplacees hors file UI (les gels point de vigilance / watchdog disparaissent), garde-fou contre l'effacement d'une base 1.0 restauree, NameErrors Finances corriges, onglet Administratif complete (choix du type d'intervenant + modification/suppression), mise a jour DELTA multi-bases : depuis 1.0.10.1 OU 1.0.10.2."
+    "version": "1.0.10.4",
+    "notes": "1.0.10.4 : les tableaux gardaient la ligne \u00ab aucun element \u00bb etendue sur toute la largeur : la 1re donnee creee n affichait que sa 1re colonne. Corrige dans tout le logiciel."
 }
