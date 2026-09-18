@@ -1,36 +1,36 @@
 {
-    "sha256": "f1e1cd2e8ea054693945838ce5f7dc3bce4b4e755760c1cd2618cc92897e065e",
-    "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.11/BET-Suite-Setup-1.0.11-alpha.exe",
-    "delta_url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.11/BET-Suite-delta-1.0.11-depuis-1.0.10.5.zip",
-    "delta_sha256": "c904ac0fab4b5f91605ea91252fe812366c78683bcdb90c872d3cc720bc63962",
+    "sha256": "45a10a2fa35d24cfb34ef4fc2309c1246282824301a75a62dfb9fa67faecc2f9",
+    "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.12/BET-Suite-Setup-1.0.12-alpha.exe",
+    "delta_url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.12/BET-Suite-delta-1.0.12-depuis-1.0.10.5.zip",
+    "delta_sha256": "8b41c127e2cf0c3162b5477858a7c7ad35de702d476efcf653c1b4f8299eae73",
     "delta_from": "1.0.10.5",
     "deltas": [
         {
             "from": "1.0.10.1",
-            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.11/BET-Suite-delta-1.0.11-depuis-1.0.10.1.zip",
-            "sha256": "10ee0a80af0836cb7547c9f4b2a73d16dcfa616724fa5de03c7be91c5c9c1e82"
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.12/BET-Suite-delta-1.0.12-depuis-1.0.10.1.zip",
+            "sha256": "1ac947ff1428b7624a90579cd51e2ec1eca04111bc5e325ba7fd04589f059fcb"
         },
         {
             "from": "1.0.10.2",
-            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.11/BET-Suite-delta-1.0.11-depuis-1.0.10.2.zip",
-            "sha256": "aee5e0a4ce1fec16773a9a3d5ce1e40a9fc4f5ca980766eb0845c4c300e17a99"
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.12/BET-Suite-delta-1.0.12-depuis-1.0.10.2.zip",
+            "sha256": "c9913d6489d125f632c1e4b6b8f74249dbf9d3392455f329e2922226be0566b8"
         },
         {
             "from": "1.0.10.3",
-            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.11/BET-Suite-delta-1.0.11-depuis-1.0.10.3.zip",
-            "sha256": "a9ad266ed72b4c47d4b6b5027f97949fab9166d13e4bde123317dca95649a056"
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.12/BET-Suite-delta-1.0.12-depuis-1.0.10.3.zip",
+            "sha256": "52c32494bc851cb403c8229e1ce833bf821034f38d6fd60a249ad64484d13b7d"
         },
         {
             "from": "1.0.10.4",
-            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.11/BET-Suite-delta-1.0.11-depuis-1.0.10.4.zip",
-            "sha256": "34e2b35ff44e92c00a6601950eeb6ada41f32cd254358308f03291a9417a3c06"
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.12/BET-Suite-delta-1.0.12-depuis-1.0.10.4.zip",
+            "sha256": "a2a22a788cab3f7c6e3a8949948095d2e87d0cd317cb5e3074ddac4e39d0084b"
         },
         {
             "from": "1.0.10.5",
-            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.11/BET-Suite-delta-1.0.11-depuis-1.0.10.5.zip",
-            "sha256": "c904ac0fab4b5f91605ea91252fe812366c78683bcdb90c872d3cc720bc63962"
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.12/BET-Suite-delta-1.0.12-depuis-1.0.10.5.zip",
+            "sha256": "8b41c127e2cf0c3162b5477858a7c7ad35de702d476efcf653c1b4f8299eae73"
         }
     ],
-    "version": "1.0.11",
-    "notes": "1.0.11 : l admin attribue les dossiers a l equipe (bouton Equipe), tableaux administratifs pleinement editables (date, numero, tout detail), facture pro forma et bon de commande emis depuis l interface, montants coupes au worker."
+    "version": "1.0.12",
+    "notes": "1.0.12 : les comptes vivent sur le serveur, par cle. Le premier compte se reclame avec le SECRET ADMIN remis a l'achat ; l'admin cree les comptes ouvriers (formules 1/3/5/10 postes) et partage les affaires compte par compte. Connexion possible depuis n'importe quel PC, affaires locales, repli hors-ligne pendant la grace de licence."
 }
