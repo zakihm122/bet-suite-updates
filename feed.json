@@ -1,36 +1,36 @@
 {
-    "sha256": "754b872b1cab341da391a03f3e909c0f8bf79ae05227a767c1330eeadb30644e",
+    "sha256": "63d971b057f4568b367da39f3ccce8a53d5c904557cd72aef55b1358dc330abb",
     "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.12/BET-Suite-Setup-1.0.12-alpha.exe",
     "delta_url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.12/BET-Suite-delta-1.0.12-depuis-1.0.10.5.zip",
-    "delta_sha256": "0a0bb3b913697263b7c9449b8722b59e47163e811372688798529d0d1f96b422",
+    "delta_sha256": "bcbe67dfcef1a0776bb5426e11eba5d486977f6012a0259e645744a32886081c",
     "delta_from": "1.0.10.5",
     "deltas": [
         {
             "from": "1.0.10.1",
             "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.12/BET-Suite-delta-1.0.12-depuis-1.0.10.1.zip",
-            "sha256": "178d43ac96aedbc10dc6db0a9d35510a583d97aaf2287efa8a4caa06889ba4ff"
+            "sha256": "efabc9e357fd559151fcade68098036ccf14e38a5f293d2be18a3442401750d6"
         },
         {
             "from": "1.0.10.2",
             "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.12/BET-Suite-delta-1.0.12-depuis-1.0.10.2.zip",
-            "sha256": "280f9670a2f397b058bb409cbdd0a4cb0c8d827a98c348d65ae5fa4263014e47"
+            "sha256": "99b6a816f20c5d023ee2a86428beac55e58e1fde48cec9f61bbe0e4b9b29a44d"
         },
         {
             "from": "1.0.10.3",
             "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.12/BET-Suite-delta-1.0.12-depuis-1.0.10.3.zip",
-            "sha256": "829171eee203f3c0a7efecc3130264414f7c2d512033a04ae3dc440eac960ddc"
+            "sha256": "59fe39baefa0380f83b6f0086b00cbfdae35b7e88599b3feb892b95cf6e85a68"
         },
         {
             "from": "1.0.10.4",
             "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.12/BET-Suite-delta-1.0.12-depuis-1.0.10.4.zip",
-            "sha256": "2266625d4dc30842c50da893edccc8840a63df20e4e0384142f9fe7b585b2483"
+            "sha256": "239c055067407efcc63ff4f268dea6584650d70e88eea3244ea45dee571e54f7"
         },
         {
             "from": "1.0.10.5",
             "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.12/BET-Suite-delta-1.0.12-depuis-1.0.10.5.zip",
-            "sha256": "0a0bb3b913697263b7c9449b8722b59e47163e811372688798529d0d1f96b422"
+            "sha256": "bcbe67dfcef1a0776bb5426e11eba5d486977f6012a0259e645744a32886081c"
         }
     ],
     "version": "1.0.12",
-    "notes": "1.0.12 : les comptes vivent sur le serveur, par cle. Le premier compte se reclame avec le SECRET ADMIN remis a l'achat ; l'admin cree les comptes ouvriers (formules 1/3/5/10/15 postes, abonnement 1/3/6/12 mois) et partage les affaires compte par compte. Connexion possible depuis n'importe quel PC, affaires locales, repli hors-ligne pendant la grace de licence."
+    "notes": "1.0.12 : les comptes vivent sur le serveur, par cle. Le premier compte se reclame avec le SECRET ADMIN remis a l'achat ; l'admin cree les comptes au role choisi (admin/ouvrier, formules 1/3/5/10/15 postes, abonnement 1/3/6/12 mois) et partage les affaires compte par compte. Connexion possible depuis n'importe quel PC, affaires locales, repli hors-ligne pendant la grace de licence."
 }
