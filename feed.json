@@ -1,46 +1,19 @@
 {
-    "sha256": "11ce53ecf4c0eb63a64544842532df0917718660bbe0370a6de832152960f551",
-    "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.14/BET-Suite-Setup-1.0.14-alpha.exe",
-    "delta_url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.14/BET-Suite-delta-1.0.14-depuis-1.0.13.zip",
-    "delta_sha256": "50b0ebc8652723a6d7d45bccf4024db46a9450e28461f53d134ab6089529e0d2",
-    "delta_from": "1.0.13",
+    "sha256": "a5fcf0cd68832f0ba042982e6ef6f5235de551544cd37f90b849e3284e724fde",
+    "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.15/BET-Suite-Setup-1.0.15-alpha.exe",
+    "delta_url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.15/BET-Suite-delta-1.0.15-depuis-1.0.14.zip",
+    "delta_sha256": "ee8f36d40059a7a6ff592653c633b95a378fea62eff0ab1967d3971a2e785dc5",
+    "delta_from": "1.0.14",
     "deltas": [
-        {
-            "from": "1.0.10.1",
-            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.14/BET-Suite-delta-1.0.14-depuis-1.0.10.1.zip",
-            "sha256": "bb70046717e7b961140be5022b5ecf86700a8e38139e0bfb8e52ca1ed89b67c2"
-        },
-        {
-            "from": "1.0.10.2",
-            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.14/BET-Suite-delta-1.0.14-depuis-1.0.10.2.zip",
-            "sha256": "373d8b514d7e836da7aec063d22d78c4ed72ea984ac4f493ec77abc1b03c3921"
-        },
-        {
-            "from": "1.0.10.3",
-            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.14/BET-Suite-delta-1.0.14-depuis-1.0.10.3.zip",
-            "sha256": "2495a6375b9055412ce09649265c430ec62f62a6c3c3782b0834c93995a03cc0"
-        },
-        {
-            "from": "1.0.10.4",
-            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.14/BET-Suite-delta-1.0.14-depuis-1.0.10.4.zip",
-            "sha256": "8e118ba81d19d13337f457f856a4a9ce43b61cbb1237b90d0c4c4e05acdbdd08"
-        },
-        {
-            "from": "1.0.10.5",
-            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.14/BET-Suite-delta-1.0.14-depuis-1.0.10.5.zip",
-            "sha256": "a6063b975a6b04c66394f63453a0ac9cfaca63d1141a7c86b0303f7fa651d71b"
-        },
-        {
-            "from": "1.0.12",
-            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.14/BET-Suite-delta-1.0.14-depuis-1.0.12.zip",
-            "sha256": "2f78a2f0f297ff097a07b1c5bbd8597670cefa077c44bcfd28b8016771ea536a"
-        },
-        {
-            "from": "1.0.13",
-            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.14/BET-Suite-delta-1.0.14-depuis-1.0.13.zip",
-            "sha256": "50b0ebc8652723a6d7d45bccf4024db46a9450e28461f53d134ab6089529e0d2"
-        }
+        {"from": "1.0.10.1", "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.15/BET-Suite-delta-1.0.15-depuis-1.0.10.1.zip", "sha256": "1176b5f71c20d5484cd67b95e25f151aa4641be0ea2ad09220371bb6ad7e4933"},
+        {"from": "1.0.10.2", "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.15/BET-Suite-delta-1.0.15-depuis-1.0.10.2.zip", "sha256": "746a2e8ccba5846addf7ea0ed2edbf9e7cc04a136fc15f6ebcf3ba486b7af73c"},
+        {"from": "1.0.10.3", "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.15/BET-Suite-delta-1.0.15-depuis-1.0.10.3.zip", "sha256": "f7552411c06b94aef44b5b3e8db7023921505da0bc8db3e94ccb831447339316"},
+        {"from": "1.0.10.4", "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.15/BET-Suite-delta-1.0.15-depuis-1.0.10.4.zip", "sha256": "832e038b68c734c5ba6609b12578553e93b4a1e76638f526bb21a2e3e6b8fe8a"},
+        {"from": "1.0.10.5", "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.15/BET-Suite-delta-1.0.15-depuis-1.0.10.5.zip", "sha256": "4f47fd401dfd53cbcf0f4a0144af7c0f3f8c8ed7bde162aba232be625bcaf42c"},
+        {"from": "1.0.12", "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.15/BET-Suite-delta-1.0.15-depuis-1.0.12.zip", "sha256": "f8e7332bd75043db6665f6c79fff69a335c0db74e002108893ec322802afe7ef"},
+        {"from": "1.0.13", "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.15/BET-Suite-delta-1.0.15-depuis-1.0.13.zip", "sha256": "95386164d2421734a2da7ac10a351e91ee2581a6cb2e3cd7a24e4feb6a94354a"},
+        {"from": "1.0.14", "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.15/BET-Suite-delta-1.0.15-depuis-1.0.14.zip", "sha256": "ee8f36d40059a7a6ff592653c633b95a378fea62eff0ab1967d3971a2e785dc5"}
     ],
-    "version": "1.0.14",
-    "notes": "1.0.14 : Comptes & Partage ouvre instantanement, pas de gel lors de la creation de compte, Entree ne ferme plus le menu, honoraires invisibles au worker, message de formule adapte, watchdog plus tolerant (15s), placeholder karim."
+    "version": "1.0.15",
+    "notes": "1.0.15 : correction critique — Comptes & Partage etait manquant de l'installeur PyInstaller (ModuleNotFoundError). Module ajoute aux hiddenimports."
 }
