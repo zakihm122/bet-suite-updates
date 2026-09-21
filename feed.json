@@ -1,41 +1,41 @@
 {
-    "sha256": "cf79d3bc9579dda9c9a838d42429ae0739f94f2e0414bd71d131a8d55f8f8a03",
+    "sha256": "35a2f40fdedefbfb5e04f3c2ace9a79eb61e0d45496a792699956cc9a26fa762",
     "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.13/BET-Suite-Setup-1.0.13-alpha.exe",
     "delta_url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.13/BET-Suite-delta-1.0.13-depuis-1.0.12.zip",
-    "delta_sha256": "3ec3a90b494ef3a2f367481129291f61c2e98a24d6cc15e19d17f2739a8e3c10",
+    "delta_sha256": "9380920bc200eeaa3bf2ecefa5a8596f5d81f28ce8d758766b420adec91178ec",
     "delta_from": "1.0.12",
     "deltas": [
         {
             "from": "1.0.10.1",
             "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.13/BET-Suite-delta-1.0.13-depuis-1.0.10.1.zip",
-            "sha256": "0970adbd857195dc936dd5894508735b60245b9aa52ab57eecb6beda63b23c84"
+            "sha256": "74885e1064a513c166d838ea0bca3edac9a4eb3c55337529b68e7b40cda76956"
         },
         {
             "from": "1.0.10.2",
             "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.13/BET-Suite-delta-1.0.13-depuis-1.0.10.2.zip",
-            "sha256": "6917cdb242bdc35faa335e5ef9a9ab5cf6ab10bb06ebb9fd5cac0589bee012b1"
+            "sha256": "73b6088d29fe5da75ce63ffe179c3c2e12ef1f27bd2e157ccf7a16035b587ce5"
         },
         {
             "from": "1.0.10.3",
             "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.13/BET-Suite-delta-1.0.13-depuis-1.0.10.3.zip",
-            "sha256": "cfcbb7935fa393c78036c95f2e59f5291a387a17a805c37a2dace17c9afe38bd"
+            "sha256": "74d4e44bd7dd2c5553df1b3a541d04ec70b6d5b9b1e9f94be29d306f8ae210ca"
         },
         {
             "from": "1.0.10.4",
             "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.13/BET-Suite-delta-1.0.13-depuis-1.0.10.4.zip",
-            "sha256": "08a05dfd9f9bb05ad560a5a00390a8a0931c669534fb98c3e71ccd47528b5e71"
+            "sha256": "045141e24e3b7c217478a174d2fac36fbfecc522b59d526f957aac62450eeb70"
         },
         {
             "from": "1.0.10.5",
             "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.13/BET-Suite-delta-1.0.13-depuis-1.0.10.5.zip",
-            "sha256": "5dd28dab54f397032fb3bef7951a5c150961160f1ced7726969257410b8b84cc"
+            "sha256": "eb9ef34906a366349923669ac7d0406567393a2b9c6dbc0e976482e7783c783e"
         },
         {
             "from": "1.0.12",
             "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v1.0.13/BET-Suite-delta-1.0.13-depuis-1.0.12.zip",
-            "sha256": "3ec3a90b494ef3a2f367481129291f61c2e98a24d6cc15e19d17f2739a8e3c10"
+            "sha256": "9380920bc200eeaa3bf2ecefa5a8596f5d81f28ce8d758766b420adec91178ec"
         }
     ],
     "version": "1.0.13",
-    "notes": "1.0.13 : la mise a jour se propose a tout le parc. Comptes par cle cote serveur, premier compte reclame au SECRET ADMIN, role au choix (admin/ouvrier), formules 1/3/5/10/15 postes, abonnements 1/3/6/12 mois, partage des affaires par compte, echeance vendue affichee, icones SVG sur les boutons."
+    "notes": "1.0.13 : Comptes & Partage ouvre instantanement, pas de gel lors de la creation de compte, Entree ne ferme plus le menu, honoraires invisibles au worker, message de formule adapte, watchdog plus tolerant (15s), placeholder karim."
 }
