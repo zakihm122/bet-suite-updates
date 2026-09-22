@@ -1,24 +1,81 @@
 {
-    "sha256": "8f623839bd2ad2ccc330c726e691169491d08537d7ce6670bf49bbd70d71ea91",
-    "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0/BET-Suite-Setup-2.0-alpha.exe",
-    "delta_url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0/BET-Suite-delta-2.0-depuis-1.0.17.zip",
-    "delta_sha256": "3c7dc090cd97ac4baef38f330c06d7be950744bf86e6a3a4f71f422aa3358539",
+    "sha256": "c6a6d206ad853b73daef07846888dbc7d1d9d0670fd688a38f716261eec32167",
+    "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.0/BET-Suite-Setup-2.0.0-alpha.exe",
+    "delta_url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.0/BET-Suite-delta-2.0.0-depuis-1.0.17.zip",
+    "delta_sha256": "0388e439d0b53226f513c9ea57e37ab1cdc26b9b50efc649f0a366993bfbbff3",
     "delta_from": "1.0.17",
     "deltas": [
-        {"from": "1.0.10", "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0/BET-Suite-delta-2.0-depuis-1.0.10.zip", "sha256": "f084f4abb95040ebc9fb25cfa893aad1ac199957c10c453a325ec52845e33ec3"},
-        {"from": "1.0.10.1", "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0/BET-Suite-delta-2.0-depuis-1.0.10.1.zip", "sha256": "e84a5f0d6efddc1ccb6608ba0af4a326ebbc0ea04cfe30a3632551339450ecb0"},
-        {"from": "1.0.10.2", "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0/BET-Suite-delta-2.0-depuis-1.0.10.2.zip", "sha256": "7d634667802e3b67604c8bb352fab9a4e3465ba4ce80ad0e4b85cc0b3d0c0933"},
-        {"from": "1.0.10.3", "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0/BET-Suite-delta-2.0-depuis-1.0.10.3.zip", "sha256": "7699bea5f36b61eecea373259ab6fb00c46f621646156a03f02e3be9802d4909"},
-        {"from": "1.0.10.4", "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0/BET-Suite-delta-2.0-depuis-1.0.10.4.zip", "sha256": "977891432fa9652b23796a768390f13d8ab7213fb5e625ebb0a62bdc802027fc"},
-        {"from": "1.0.10.5", "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0/BET-Suite-delta-2.0-depuis-1.0.10.5.zip", "sha256": "87b88c13efd0943d9682c63b16f8d8c52f546345cbc03ad849d1da3fa8263e25"},
-        {"from": "1.0.11", "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0/BET-Suite-delta-2.0-depuis-1.0.11.zip", "sha256": "d9eeaff5e0e63490c40b4412a5a227478ffbf4270f74f00d2b8fcc70a235ebae"},
-        {"from": "1.0.12", "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0/BET-Suite-delta-2.0-depuis-1.0.12.zip", "sha256": "015125dee864ae90bda0929adfdb3571ba0bcb92d4ed4ba8e935c2b39b848d94"},
-        {"from": "1.0.13", "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0/BET-Suite-delta-2.0-depuis-1.0.13.zip", "sha256": "150ed8eaf9d86e519f9779e1159a304b9d2c0bf28865a64cd6060f5fe30fe54a"},
-        {"from": "1.0.14", "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0/BET-Suite-delta-2.0-depuis-1.0.14.zip", "sha256": "f57f2e6d94137a81d3b829aa7a956773c92bdd36ccc4ec17e4c6c48b5698d7ac"},
-        {"from": "1.0.15", "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0/BET-Suite-delta-2.0-depuis-1.0.15.zip", "sha256": "d3db0699484eb0f1d1f9e5a7dd6db26a19f7457adfa35b4f787a616a335987aa"},
-        {"from": "1.0.16", "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0/BET-Suite-delta-2.0-depuis-1.0.16.zip", "sha256": "5f6017df6f26792de7742ee0363114de3310ce07cc09929e135423e925f5f902"},
-        {"from": "1.0.17", "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0/BET-Suite-delta-2.0-depuis-1.0.17.zip", "sha256": "3c7dc090cd97ac4baef38f330c06d7be950744bf86e6a3a4f71f422aa3358539"}
+        {
+            "from": "1.0.10",
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.0/BET-Suite-delta-2.0.0-depuis-1.0.10.zip",
+            "sha256": "ac29708edeaa634f5ce0b6677eedc3a90415893c3aa6deac1672e43b94ec36fd"
+        },
+        {
+            "from": "1.0.10.1",
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.0/BET-Suite-delta-2.0.0-depuis-1.0.10.1.zip",
+            "sha256": "22917d37f5e2420c6ebb9567d25a6d75760e9580b9ba5bed9b29e685ed87a87a"
+        },
+        {
+            "from": "1.0.10.2",
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.0/BET-Suite-delta-2.0.0-depuis-1.0.10.2.zip",
+            "sha256": "0f77ce37e2bf7c138b684dc8c997be482d481717e92b7213e0e98950b3f8df4b"
+        },
+        {
+            "from": "1.0.10.3",
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.0/BET-Suite-delta-2.0.0-depuis-1.0.10.3.zip",
+            "sha256": "328f64078bbb60d941fd93efa1c449571e00513e2ad5cbf89bd2bc00f3eed277"
+        },
+        {
+            "from": "1.0.10.4",
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.0/BET-Suite-delta-2.0.0-depuis-1.0.10.4.zip",
+            "sha256": "a03407ccc051c34c31259c036ea22ed1a756c5f6e4f508e6fa24aca50ac61c62"
+        },
+        {
+            "from": "1.0.10.5",
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.0/BET-Suite-delta-2.0.0-depuis-1.0.10.5.zip",
+            "sha256": "e33ab7633295d350896b5b33fb5c988e02b344f88726df1138d2fb4a5a38f268"
+        },
+        {
+            "from": "1.0.11",
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.0/BET-Suite-delta-2.0.0-depuis-1.0.11.zip",
+            "sha256": "5913a395d2e5692ba71491d2bf4e4f139983885fdbce9079e85a7acda52ba61d"
+        },
+        {
+            "from": "1.0.12",
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.0/BET-Suite-delta-2.0.0-depuis-1.0.12.zip",
+            "sha256": "e2e603fd222123d6e8a7cfcd6ba90b71309fbe675717f73a8ee3c4c002ef0f42"
+        },
+        {
+            "from": "1.0.13",
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.0/BET-Suite-delta-2.0.0-depuis-1.0.13.zip",
+            "sha256": "bff0f960a485d944a8cd630a056a99070287c0c2d08211b3c4f1ed3931fc4e9d"
+        },
+        {
+            "from": "1.0.14",
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.0/BET-Suite-delta-2.0.0-depuis-1.0.14.zip",
+            "sha256": "4352ed23a9967bf8cb5c0ca97b38091978869b341dbb473b6beb2bd5138f993e"
+        },
+        {
+            "from": "1.0.15",
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.0/BET-Suite-delta-2.0.0-depuis-1.0.15.zip",
+            "sha256": "4d81948b221bf0af5d1db4e105a192e6dfc05598049ff1c0d18d40462dbfb7ad"
+        },
+        {
+            "from": "1.0.16",
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.0/BET-Suite-delta-2.0.0-depuis-1.0.16.zip",
+            "sha256": "0c47c5fc2a08f3ef343f57ecae0083f723620f9493fd3f41ee1e1edd34d23585"
+        },
+        {
+            "from": "1.0.17",
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.0/BET-Suite-delta-2.0.0-depuis-1.0.17.zip",
+            "sha256": "0388e439d0b53226f513c9ea57e37ab1cdc26b9b50efc649f0a366993bfbbff3"
+        },
+        {
+            "from": "2.0",
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.0/BET-Suite-delta-2.0.0-depuis-2.0.zip",
+            "sha256": "2f9bd1d133d0840d0a77fe65fe3f8c2c3483ee5e824de3a0841385b0f28367d1"
+        }
     ],
-    "version": "2.0",
-    "notes": "2.0 alpha : cinq defauts d'usage corriges (toast confrere, partage de poste, echeance 365 j aux uniques, reset de la base hors-ligne) ET les quatre durees d'abonnement 1/3/6/12 mois sont desormais gravees sur le serveur (keygen GUI comme generateur du site web /license/generate) - l'echeance vendue remplace le precedent rabattement sur un an."
+    "version": "2.0.0",
+    "notes": "2.0.0 : avancement du suivi technique colore (30%% les 6 premieres etapes de chaque bloc, 70%% le reste, 0%% gris / faience ambre / vert) ; garde-fou re-keying : quand une machine change de cle et perd ses comptes (postes 0/X, suppression refusee), l'app detecte les comptes orphelins et propose le rapatriement (/compte/transfere) sans passer par le bureau."
 }
