@@ -1,21 +1,21 @@
 {
-    "sha256": "C07D3A4356AB5AD204DB94F6DC7CFCD5C3F6EB9198A26C1BEBD85C8B82B50284",
-    "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.6/BET-Suite-Setup-2.0.6-alpha.exe",
-    "delta_url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.6/BET-Suite-delta-2.0.6-depuis-1.0.10.zip",
-    "delta_sha256": "5cbbcda3e667ac08e3e88b2c1d2e515f6017efa8cb2ae881acf3bdf021dc9dd9",
+    "sha256": "56471f473f7c1c273fd05c61ec84cdd83c7e11f78e036b8e53a2c7e5442776ae",
+    "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.6.1/BET-Suite-Setup-2.0.6.1-alpha.exe",
+    "delta_url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.6.1/BET-Suite-delta-2.0.6.1-depuis-1.0.10.zip",
+    "delta_sha256": "e554eec28c53b1e903cc1d4f486b242c2cb4bd49e9f909c8432f01c0507ed343",
     "delta_from": "1.0.10",
     "deltas": [
         {
             "from": "1.0.10",
-            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.6/BET-Suite-delta-2.0.6-depuis-1.0.10.zip",
-            "sha256": "5cbbcda3e667ac08e3e88b2c1d2e515f6017efa8cb2ae881acf3bdf021dc9dd9"
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.6.1/BET-Suite-delta-2.0.6.1-depuis-1.0.10.zip",
+            "sha256": "e554eec28c53b1e903cc1d4f486b242c2cb4bd49e9f909c8432f01c0507ed343"
         },
         {
             "from": "2.0.5.1",
-            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.6/BET-Suite-delta-2.0.6-depuis-2.0.5.1.zip",
-            "sha256": "b1eb2fe16862d3f1a7b426f36046684966d2290521fc9abeaaa6e5caa1d44e34"
+            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.6.1/BET-Suite-delta-2.0.6.1-depuis-2.0.5.1.zip",
+            "sha256": "7c7f4419a3606e5d19ce6fa578870a821bf5039a1d0b5ffd1f4c654d7bab4f00"
         }
     ],
-    "version": "2.0.6",
-    "notes": "2.0.6 - basse resolution : pourcentages et numeros enfin lisibles (lots A-G). Cartouche et barre laterale elastiques, avancement par blocs physiques (k/N), blocs de projet avec periode, facture numerotee a la confirmation, relance mensuelle a la volee, gardien reseau (pop seulement apres 15 s de coupure, zero gel UI), artefacts de release allages ~37 Go -> ~3 Go (seules bases 1.0.10 + 2.0.5.1 conservees, deltas depuis chacune)."
+    "version": "2.0.6.1",
+    "notes": "2.0.6.1 - barre de mission en k/N (selection partielle = avancement reel), purge des missions dont le type a ete decoche a l'initialisation, factures FAC-2026-0001/0002 annulees, correctifs post-release 2.0.6 (% cartouche, logo Word 54x54, detachement de vues, bloc decoche supprime, cle de sequence pre-remplie)."
 }
