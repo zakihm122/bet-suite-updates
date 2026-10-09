@@ -1,6 +1,6 @@
 {
     "version": "2.1v",
-    "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.1v/BET-Suite-Setup-2.1v-alpha.exe",
+    "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v-alpha/BET-Suite-Setup-alpha.exe",
     "sha256": "f1b88c6a38f468daf127270f4a971b07621e2b1eb743ca34550d3b8c58aa7365",
     "notes": "2.1v alpha - Suivi de chantier refait (7 onglets, dont Suivi technique), nouveau module Expertise, identite client complete sur les documents, avenants en PDF, nouvel accueil et nouvelles icones, onglets du Financier dans la fenetre, plus de petite fenetre fantome, theme sombre corrige et plus rapide, verification des mises a jour depuis l'accueil."
 }
