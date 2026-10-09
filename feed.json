@@ -1,21 +1,6 @@
 {
-    "sha256": "56471f473f7c1c273fd05c61ec84cdd83c7e11f78e036b8e53a2c7e5442776ae",
-    "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.6.1/BET-Suite-Setup-2.0.6.1-alpha.exe",
-    "delta_url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.6.1/BET-Suite-delta-2.0.6.1-depuis-1.0.10.zip",
-    "delta_sha256": "e554eec28c53b1e903cc1d4f486b242c2cb4bd49e9f909c8432f01c0507ed343",
-    "delta_from": "1.0.10",
-    "deltas": [
-        {
-            "from": "1.0.10",
-            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.6.1/BET-Suite-delta-2.0.6.1-depuis-1.0.10.zip",
-            "sha256": "e554eec28c53b1e903cc1d4f486b242c2cb4bd49e9f909c8432f01c0507ed343"
-        },
-        {
-            "from": "2.0.5.1",
-            "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.0.6.1/BET-Suite-delta-2.0.6.1-depuis-2.0.5.1.zip",
-            "sha256": "7c7f4419a3606e5d19ce6fa578870a821bf5039a1d0b5ffd1f4c654d7bab4f00"
-        }
-    ],
-    "version": "2.0.6.1",
-    "notes": "2.0.6.1 - barre de mission en k/N (selection partielle = avancement reel), purge des missions dont le type a ete decoche a l'initialisation, factures FAC-2026-0001/0002 annulees, correctifs post-release 2.0.6 (% cartouche, logo Word 54x54, detachement de vues, bloc decoche supprime, cle de sequence pre-remplie)."
+    "version": "2.1v",
+    "url": "https://github.com/zakihm122/bet-suite-updates/releases/download/v2.1v/BET-Suite-Setup-2.1v-alpha.exe",
+    "sha256": "f1b88c6a38f468daf127270f4a971b07621e2b1eb743ca34550d3b8c58aa7365",
+    "notes": "2.1v alpha - Suivi de chantier refait (7 onglets, dont Suivi technique), nouveau module Expertise, identite client complete sur les documents, avenants en PDF, nouvel accueil et nouvelles icones, onglets du Financier dans la fenetre, plus de petite fenetre fantome, theme sombre corrige et plus rapide, verification des mises a jour depuis l'accueil."
 }
